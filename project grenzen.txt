@@ -1,0 +1,3 @@
+Het project kent 8 volledige werkweken. Daarna is er in week 9 de formele afronding met de eindpresentatie aan iConcepts. 
+Tijdens het project werken we niet alleen aan de opdracht voor iConcepts. We werken ook aan onze eigen professionele ontwikkeling. Daarvoor reserveren we per saldo 1 dag (7,5 uur) per week. We besteden dus maximaal 30 uur per week aan de groepsproducten en de daaraan verwante projectactiviteiten.
+We leveren per sprint een prototype op dat gebruikt kan worden voor testdoeleinden. Het hoeft nog niet volledig operationeel te zijn maar wel in bezit zijn van een testrapport en documentatie. Dit is zodat er snel gewerkt kan worden en duidelijk blijf wat er gebeurt
