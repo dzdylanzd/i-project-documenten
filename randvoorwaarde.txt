@@ -1,0 +1,7 @@
+Er is toegang tot benodigde systemen. (OnderwijsOnline, iSAS, PluralSight)
+Er is toegang tot github 
+Er moet bij elke comit bij github een titel en commentaar bij 
+Als iemand ziek is moet hij dat zo snel mogenlijk melden
+Als iemand te laat is wordt dit vermeld via de whatsapp groep
+Er mag mogenlijk van huis gewerkt worden via discord
+De product owner en scrum coach zijn (los van elkaar) minimaal eens per week aanwezig bij overleg en ze zijn tussendoor bereikbaar voor vragen.
