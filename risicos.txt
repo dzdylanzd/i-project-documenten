@@ -1,0 +1,4 @@
+Bij onvoorziene uitval van een lid van de projectgroep is er het risico dat we minder functionaliteit kunnen opleveren. Of de beoogde functionaliteit kan wel opgeleverd worden maar dan van minder hoge kwaliteit.
+Bij een tekort aan vakinhoudelijke kennis in de projectgroep is er het risico dat we onvoldoende gelegenheid hebben om ons de benodigde kennis eigen te maken. Dit heeft dan effect op (de kwaliteit van) de op te leveren functionaliteit.
+Bij een hardware fout van een computer kan voor vertraging zorgen en er voor zorgen dat een lid minder kan werken en presenteren.
+Bij probleem met GitHub is er een mogelijkheid op data verlies en dus een grote achterstand 
